@@ -95,3 +95,7 @@ Follow the setup instructions in each part:
 * The repo is designed to showcase **end-to-end problem solving** for a Data Scientist role: from API development to analysis and response automation.
 
 ---
+
+## 🔗 Author
+Víctor Suesta  
+[LinkedIn](https://www.linkedin.com/in/víctor-suesta-arribas-7b1250322/)
