@@ -1,6 +1,6 @@
 # 🧪 Data Scientist Technical Test
 
-This repository contains the full solution to a **technical test for a Junior Data Scientist position**, covering email classification, data analysis, visualization, and flexible rule-based systems.  
+This repository contains the full solution to a **technical test for a hipothetical Junior Data Scientist position**, covering email classification, data analysis, visualization, and flexible rule-based systems.  
 The project is divided into four main parts, each tackling a different challenge while maintaining reproducibility, clarity, and modular design.
 
 ---
